@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+<node name="iou_tracker" pkg="ros_iou_tracking" type="iou_tracker.py" output="screen"/>
+
+
+</launch>

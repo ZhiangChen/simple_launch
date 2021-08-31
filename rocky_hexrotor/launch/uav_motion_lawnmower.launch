@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node name="uav_motion_lawnmower" pkg="uav_motion" type="lawnmower_waypoints_generator.py" output="screen"/>
+
+
+</launch>
